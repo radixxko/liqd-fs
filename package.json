@@ -1,7 +1,7 @@
 {
   "name": "liqd-fs",
   "description": "FileSystem Helper Functions",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/fs.js",
