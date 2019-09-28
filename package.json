@@ -22,10 +22,10 @@
     "liqd"
   ],
   "dependencies": {
-    "liqd-timer": "^1.0.4"
+    "liqd-timer": "^1.1.0"
   },
   "devDependencies": {
-    "coveralls": "^3.0.4",
+    "coveralls": "^3.0.6",
     "mocha": "^5.0.4",
     "nyc": "^14.1.1"
   }
